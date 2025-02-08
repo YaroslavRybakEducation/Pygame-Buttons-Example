@@ -1,0 +1,32 @@
+# Image files
+*.svg
+*.avif
+*.webp
+
+# Video files
+*.avi
+*.mp4
+*.mov
+*.wmv
+
+# Audio files
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+
+# Package files
+*.rar
+*.7z
+
+# Executable files
+*.exe
+*.msi
+
+# Misc files
+*.cpp
+*.css
+*.html
+*.vscodeignore
+*.ipynb
